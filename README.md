@@ -60,6 +60,8 @@ Aliucord is not officially provided for Aliucord due to it using an older versio
 - Vencord Online Themes Text Field not significantly seperated from background unless active<br>
 - Green -> Yellow -> Red on Privacy & Safety Prefences Side Borders go Brown -> Yellow -> Brown instead<br>
 - Pin Message preview messsage background does not transformed into theme colours.
+- [Plugin Related] Decor change decoration colours cause background colours to blend in with each other.<br>
+- Selected channel icon colour (not text colour) keeps unselected channel icon colour (light blue) instead of turning to white like text color<br>
 <h3>Mobile</h3>
 - Transition Colour Between Non-Press and Hold on Certain UI has this weird Purple Colour<br>
 - Uer Profile -> Server Profiles Selector on Profile Settings Section not transformed into theme colour<br>
