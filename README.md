@@ -41,9 +41,8 @@ Alternatively, download <code>https://raw.githubusercontent.com/ThatOneUnorigina
 5. Press "install"
 
 <h3>Stylus</h3>
-Abyssal Fawn is not officially provided for the web version of Discord. The desktop version may work on web but an official step-by-step guide and listing will be provided once testing can be done to ensure that it works on the web version. 
-<h3>Aliucord</h3>
-Aliucord is not officially provided for Aliucord due to it using an older version of the Discord client then Vendetta uses. An Aliucord version is planned to be released eventually.
+1. Download the Stylus extension for <a href="https://chromewebstore.google.com/detail/stylus/clngdbkpkpeebahjckkjfobafhncgmne">Chrome</a> (Chromium Browsers) or <a href="https://addons.mozilla.org/en-CA/firefox/addon/styl-us/">Firefox</a><br>
+2. Go <a href="https://userstyles.world/style/15149/abyssal-fawn">here</a> and install the theme to Stylus<br>
 
 <h2>Known Issues/Problems</h2>
 <h3>Desktop</h3>
