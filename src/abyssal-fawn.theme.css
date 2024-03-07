@@ -1,0 +1,111 @@
+/**
+ * @name Abyssal Fawn
+ * @author t1u / ThatOneUnoriginal
+ * @authorID 347149269037481997
+ * @version 1.0.1
+ * @description A deep blue theme for the Discord application
+ */
+
+ :root, .theme-dark{
+	--background-primary: #162451;
+	--background-secondary: #121E48;
+	--background-secondary-alt: #0D1635;
+	--background-tertiary: #0D1635;
+	--background-floating: #0a112b;
+	--scrollbar-thin-thumb: #0D1635;
+	--scrollbar-auto-track: #0D1635;
+	--scrollbar-auto-thumb: #283a78;
+	--channeltextarea-background: #202D57;
+	--home-background: var(--background-primary);
+	--button-secondary-background: #091029;
+	--button-secondary-background-hover: #0D1635;
+	--button-secondary-background-active: #0D1635;
+	--button-outline-primary-background-active: #131e45;
+	--button-outline-primary-border-active: #060b1f;
+	--background-accent: #1F2F63;
+	--background-modifier-accent: #1F2F63;
+	--background-modifier-selected: #1F2F63;
+	--background-modifier-hover: #1b2959;
+	--background-modifier-active: #172554;
+	--button-outline-primary-background-hover: #0D1635;
+	--button-outline-primary-border-hover: #0D1635;
+	--input-background: #0D1635;
+	--modal-background: #162451;
+	--modal-footer-background: #121E48;
+	--bg-base-tertiary: var(--background-tertiary) ;
+	--bg-base-secondary: var(--background-secondary);
+	--brand-experiment-400: #644434;
+	--brand-500: #7B5542;
+	--brand-560: #976d57;
+	--brand-600: #a77b64;
+	--red-400: #7B5542;
+	--green-360: #7B5542;
+}
+
+.container__871ba{
+	background: #7B5542 !important;
+}
+.slider__41d94>svg>path{
+	fill: #7B5542;
+}
+.theme-dark .bar_e58961, .theme-dark .markDash_dc3ae9{
+	background: #0D1635;
+}
+.theme-dark .directoryContainer_d3edd9{
+	background: #182757;
+}
+.theme-dark .pageWrapper_fef757{
+	background: #182757;
+}
+.theme-dark .footerSeparator__57d95{
+	box-shadow: unset;
+}
+.theme-dark .customColorPicker__3cb6a{
+	background: #0D1635;
+	border-color: #ffffff00;
+}
+.theme-dark .message__04d9f{
+	background: #121E48;
+}
+.container_b181b6{
+	background: #182757;
+}
+.theme-dark .textContentFooter__5a630{
+	background: linear-gradient(to top,hsl(var(--background-secondary)/1),hsl(var(--background-secondary)/.97)36px,hsl(var(--background-secondary)/.4))
+}
+.theme-dark .tagPill_d9a5cc{
+	background: #0D1635;
+}
+.highlight{
+	background: #7B5542;
+}
+.theme-dark .autocomplete_df266d{
+	background: var(--background-secondary)
+}
+.unread__75c9f{
+	color: #e6b8a1;
+}
+.circleIcon__428dd>path{
+	fill: #fff;
+}
+.theme-dark .container__7590f{
+	background: #182757;
+}
+.theme-dark .container__10dc7, .theme-dark .header__60bef{
+	background: #182757;	
+}
+.theme-dark .innerHeader_afca2f:after{
+	background: linear-gradient(to bottom,rgba(50,52,58,0)0%,#182757 100%)
+}
+.theme-dark .separator__925e8{
+	box-shadow: unset;
+}
+.checked__24ad6g{
+	fill: #7B5542;
+}
+.theme-dark .focused_f9cf2c{
+	background: #0D1635;
+}
+.option_b5597b:hover:after{
+	background: linear-gradient(to bottom,rgba(50,52,58,0)0%,#182757 100%)
+}
