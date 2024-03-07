@@ -47,23 +47,23 @@ Aliucord is not officially provided for Aliucord due to it using an older versio
 
 <h2>Known Issues/Problems</h2>
 <h3>Desktop</h3>
-- Long clicking on certain buttons results in user seeing Blurple color<br>
-- Long clicking on certain buttons results in user seeing Light Grey<br>
+- <s>Long clicking on certain buttons results in user seeing Blurple color</s><br>
+- <s>Long clicking on certain buttons results in user seeing Light Grey</s><br>
 - Notification settings popup UI not fully transformed into theme colours<br>
-- App Directory section not fully transformed into theme colours<br>
+- <s>App Directory section not fully transformed into theme colours</s><br>
 - Search popup header background not transformed into theme color<br>
 - Selected item search right gradient not transformed into theme colour<br>
-- Discorver section not fully transformed into theme colours<br>
+- <s>Discorver section not fully transformed into theme colours</s><br>
 - Hovering over "Active Now" activity cards looks weird<br>
 - Browse Channels section not fully transformed into theme colours<br>
 - Invite friends to ____ bottom section background not fully transformed into theme colours<br>
-- Folder Settings Custom Colour Picker Background not transformed into theme colours<br>
+- <s>Folder Settings Custom Colour Picker Background not transformed into theme colours</s><br>
 - Checkbox On Background (ex Sync with Computer) not fully transformed into theme colours<br>
 - Billing "Psst! Looking to redeem a Discord key?" box not transformed into theme colours fully<br>
 - Vencord Online Themes Text Field not significantly seperated from background unless active<br>
 - Green -> Yellow -> Red on Privacy & Safety Prefences Side Borders go Brown -> Yellow -> Brown instead<br>
-- Pin Message preview messsage background does not transformed into theme colours.<br>
-- [Plugin Related] Decor change decoration colours cause background colours to blend in with each other.<br>
+- <s>Pin Message preview messsage background does not transformed into theme colours.</s><br>
+- <s>[Plugin Related] Decor change decoration colours cause background colours to blend in with each other.</s><br>
 - Selected channel icon colour (not text colour) keeps unselected channel icon colour (light blue) instead of turning to white like text color<br>
 <h3>Mobile</h3>
 - Transition Colour Between Non-Press and Hold on Certain UI has this weird Purple Colour<br>
