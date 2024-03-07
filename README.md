@@ -66,3 +66,4 @@ Aliucord is not officially provided for Aliucord due to it using an older versio
 - Transition Colour Between Non-Press and Hold on Certain UI has this weird Purple Colour<br>
 - Uer Profile -> Server Profiles Selector on Profile Settings Section not transformed into theme colour<br>
 - All Messages -> @Mentions -> Nothing Selector on the Notification Settings not transformed into theme colour<br>
+-Message text whilst viewing imgs/vids/gifs has a placeholder green colour instead of correct colour.
