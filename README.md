@@ -48,13 +48,13 @@ Alternatively, download <code>https://raw.githubusercontent.com/ThatOneUnorigina
 <h3>Desktop</h3>
 - <s>Long clicking on certain buttons results in user seeing Blurple color</s><br>
 - <s>Long clicking on certain buttons results in user seeing Light Grey</s><br>
-- Notification settings popup UI not fully transformed into theme colours<br>
+- <s>Notification settings popup UI not fully transformed into theme colours</s><br>
 - <s>App Directory section not fully transformed into theme colours</s><br>
-- Search popup header background not transformed into theme color<br>
-- Selected item search right gradient not transformed into theme colour<br>
+- <s>Search popup header background not transformed into theme color</s><br>
+- <s>Selected item search right gradient not transformed into theme colour</s><br>
 - <s>Discorver section not fully transformed into theme colours</s><br>
 - Hovering over "Active Now" activity cards looks weird<br>
-- Browse Channels section not fully transformed into theme colours<br>
+- <s>Browse Channels section not fully transformed into theme colours</s><br>
 - Invite friends to ____ bottom section background not fully transformed into theme colours<br>
 - <s>Folder Settings Custom Colour Picker Background not transformed into theme colours</s><br>
 - Checkbox On Background (ex Sync with Computer) not fully transformed into theme colours<br>
