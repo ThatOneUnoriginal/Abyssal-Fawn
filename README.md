@@ -1,3 +1,6 @@
+>[!NOTE]
+>This page is just a placeholder for the custom theme and is still in development. Though the project should be released soon. My main intention is to resolve most (if not all) of the known issues/problems I found with both themes before finally releasing it for all users. You can look at the image below for a preview but please expect changes between then and now!
+
 <h1 align="center">Abyssal Fawn Custom Theme For <a href="https://discord.com">Discord</a></h1>
 
 ![Abyssal Fawm](https://github.com/ThatOneUnoriginal/Abyssal-Fawn/assets/70731807/6aef7b0d-1898-4f85-8f0c-54ab90645b8d)
