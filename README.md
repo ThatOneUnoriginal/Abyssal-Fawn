@@ -41,3 +41,15 @@ Alternatively, download <code>[Insert .theme.css Link Here Later]</code> and add
 Abyssal Fawn is not officially provided for the web version of Discord. The desktop version may work on web but an official step-by-step guide and listing will be provided once testing can be done to ensure that it works on the web version. 
 <h3>Aliucord</h3>
 Aliucord is not officially provided for Aliucord due to it using an older version of the Discord client then Vendetta uses. An Aliucord version is planned to be released eventually.
+
+<h2>Known Issues/Problems</h2>
+<h3>Desktop</h3>
+- Long clicking on certain buttons results in user seeing Blurple color<br>
+- Long clicking on certain buttons results in user seeing Light Grey<br>
+- Notification settings popup UI not fully transformed into theme colours<br>
+- App Directory section not fully transformed into theme colours<br>
+- Search popup header background not transformed into theme color<br>
+- Selected item search right gradient not transformed into theme colour<br>
+- Discorver section not fully transformed into theme colours<br>
+- Hovering over "Active Now" activity cards looks weird<br>
+- Browse Channels section not fully ransformed into theme colours<br>
