@@ -52,4 +52,15 @@ Aliucord is not officially provided for Aliucord due to it using an older versio
 - Selected item search right gradient not transformed into theme colour<br>
 - Discorver section not fully transformed into theme colours<br>
 - Hovering over "Active Now" activity cards looks weird<br>
-- Browse Channels section not fully ransformed into theme colours<br>
+- Browse Channels section not fully transformed into theme colours<br>
+- Invite friends to ____ bottom section background not fully transformed into theme colours<br>
+- Folder Settings Custom Colour Picker Background not transformed into theme colours<br>
+- Checkbox On Background (ex Sync with Computer) not fully transformed into theme colours<br>
+- Billing "Psst! Looking to redeem a Discord key?" box not transformed into theme colours fully<br>
+- Vencord Online Themes Text Field not significantly seperated from background unless active<br>
+- Green -> Yellow -> Red on Privacy & Safety Prefences Side Borders go Brown -> Yellow -> Brown instead<br>
+- Pin Message preview messsage background does not transformed into theme colours.
+<h3>Mobile</h3>
+- Transition Colour Between Non-Press and Hold on Certain UI has this weird Purple Colour<br>
+- Uer Profile -> Server Profiles Selector on Profile Settings Section not transformed into theme colour<br>
+- All Messages -> @Mentions -> Nothing Selector on the Notification Settings not transformed into theme colour<br>
