@@ -31,7 +31,7 @@ To use custom themes on the desktop client, you'll need to use <a href="https://
 3. Scroll down until you reach the "BETTERDISCORD" section and select "Custom CSS"<br>
 4. Paste the import content copied earlier. Then press the save and update buttons (or enable Live Updates).<br>
 <br>
-Alternatively, download <code>[Insert .theme.css Link Here Later]</code> and add it to the Vencord or Better Discord theme folders (for BetterDiscord, imported themes through this method will appear in the Themes section.)
+Alternatively, download <code>https://raw.githubusercontent.com/ThatOneUnoriginal/Abyssal-Fawn/main/themes/abyssal-fawn-local.theme.css</code> and add it to the Vencord or Better Discord theme folders (for BetterDiscord, imported themes through this method will appear in the Themes section.)
 
 <h3>Vendetta</h3>
 1. Copy this <code>[Insert .json Link Here Later]</code><br>
