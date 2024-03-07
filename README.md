@@ -7,6 +7,8 @@ Abyssal Fawn (pronounced /əˈbisəl fôn/) is a custom Discord theme designed f
 
 >[!NOTE]
 >The Abyssal Fawn theme is not completely finished, this is more to act as a public beta to allow users to test out the theme and give their thoughts and critisms about. If you notice any issues with the theme, please create a Issue on the github or contact me on Discord @ t1u (preferably the former.)
+>
+>Right now whilist similar, there are some differences with the Abyssal Fawn theme on Desktop and Mobile. Whilst some of these differences are due to the slight changes in desktop and mobile Discord design, the intention is to make them as similar as possible. So you may see slight changes in how both themes appear over time due to this reason.
 
 <h2>How to Install</h2>
 To use custom themes on the desktop client, you'll need to use <a href="https://betterdiscord.app">BetterDiscord</a>, <a href="https://vencord.dev">Vencord</a> or any similar client modification tool available on MacOS, Windows or Linux (these are the most reputable clients and are also available on all three desktop operating systems. To use custom themes on the mobile client, you'll need to use <a href="https://vendetta.rocks">Vendetta</a> (or its forks like <a href="https://github.com/pyoncord/Bunny">Bunny</a> or <a href="https://github.com/revenge-mod/Revenge">Revenge</a> or any similar client modification tool available on iOS or Android (note that whilist a verision for Aliucord is planned, it almost certiantly wont work as is.)
