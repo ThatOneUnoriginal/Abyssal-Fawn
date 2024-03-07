@@ -20,13 +20,13 @@ To use custom themes on the desktop client, you'll need to use <a href="https://
 > Heads up! Using client modification software/tools like BetterDiscord, Vencord, Vendetta, or similar is against the Discord Terms of Service/Community Guidelines. This is a decloration that I bare no responsibility for any repercussions stemming from use of such modifications, including but not limited to suspension, banning, or termination of accounts by Discord. I additionally am not liable for any damanages whilist using any client modification software/tools or attempting to obtain such.
 
 <h3>Vencord</h3>
-1. Copy this: <code>@import url("[Insert .theme.css Link Here Later]")</code><br>
+1. Copy this: <code>@import url("https://raw.githubusercontent.com/ThatOneUnoriginal/Abyssal-Fawn/main/src/abyssal-fawn.theme.css")</code><br>
 2. Go to the bottom left corner and go to "User Settings"<br>
 3. Scroll down until you reach the "VENCORD" section and select "Themes"<br>
 4. Open "Edit QuickCSS" and paste the import content copied earlier.
 
 <h3>BetterDiscord</h3>
-1. Copy this <code>@import url("[Insert .theme.css Link Here Later]")</code><br>
+1. Copy this <code>@import url("https://raw.githubusercontent.com/ThatOneUnoriginal/Abyssal-Fawn/main/src/abyssal-fawn.theme.css")</code><br>
 2. Go to the bottom left corner and go to "User Settings"<br>
 3. Scroll down until you reach the "BETTERDISCORD" section and select "Custom CSS"<br>
 4. Paste the import content copied earlier. Then press the save and update buttons (or enable Live Updates).<br>
