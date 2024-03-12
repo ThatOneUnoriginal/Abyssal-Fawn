@@ -2,7 +2,7 @@
  * @name Abyssal Fawn
  * @author t1u / ThatOneUnoriginal
  * @authorID 347149269037481997
- * @version 1.0.1
+ * @version 1.2
  * @description A deep blue theme for the Discord application
  */
 
@@ -35,18 +35,26 @@
 	--bg-base-tertiary: var(--background-tertiary) ;
 	--bg-base-secondary: var(--background-secondary);
 	--brand-experiment-400: #644434;
+	--brand-360: #976d57;
 	--brand-500: #7B5542;
-	--brand-560: #976d57;
+	--brand-560: var(--brand-360);
 	--brand-600: #a77b64;
-	--red-400: #7B5542;
-	--green-360: #7B5542;
+	--red-400: var(--brand-500);
+	--green-360: var(--brand-500);
+    --text-link: #b8927f;
+	--status-danger: #df1b28;
+	--info-warning-foreground: var(--brand-500);
+	--deprecated-text-input-bg: #0D1635;
+	--info-warning-background: #7b554234;
 }
-
+.theme-light{
+    --text-link: var(--text-link);
+}
 .container__871ba{
-	background: #7B5542 !important;
+	background: var(--brand-500) !important;
 }
 .slider__41d94>svg>path{
-	fill: #7B5542;
+	fill: var(--brand-500);
 }
 .theme-dark .bar_e58961, .theme-dark .markDash_dc3ae9{
 	background: #0D1635;
@@ -77,7 +85,7 @@
 	background: #0D1635;
 }
 .highlight{
-	background: #7B5542;
+	background: var(--brand-500);
 }
 .theme-dark .autocomplete_df266d{
 	background: var(--background-secondary)
@@ -101,7 +109,7 @@
 	box-shadow: unset;
 }
 .checked__24ad6g{
-	fill: #7B5542;
+	fill: var(--brand-500);
 }
 .theme-dark .focused_f9cf2c{
 	background: #0D1635;
@@ -111,4 +119,82 @@
 }
 .theme-dark .footer__13977{
 	background: #121E48;
+}
+.scroller__81266{
+	background: #182757;
+}
+.newChannel_f99b92{
+	background: #e0b096 !important;
+}
+.newBadge_b013d6{
+	background: #e0b096 !important;
+}
+.darkIcon__1846a{
+	background: #162451;
+}
+.shopCard_f7822b:hover, .shopCard_f7822b:focus-within{
+	box-shadow: 0 0 15px 1px var(--background-tertiary) !important;
+}
+.newBadge_b2f114{
+	background: #e0b096;
+}
+.sound__4e0b6, .emoji_e926fa{
+	background: var(--background-tertiary);
+	opacity: .9;
+}
+.homeWrapper__59a03{
+	background: #182757;
+}
+.numberBadge__50328{
+	background: var(--brand-500) !important;
+}
+.radioBar__40e1b.radioPositionLeft__1d40a{
+	--radio-bar-accent-color: var(--brand-500) !important;
+}
+.iconBadge_cc5031{
+	background: var(--brand-500);
+}
+.wrapper__5036f{
+	background: rgb(13, 22, 53);
+	opacity: 0.6;
+}
+.spoilerWarning_d02e2d{
+	background: #0D1635;
+}
+.mention__1afd3{
+	background: var(--brand-500);	
+}
+.root__3eef0{
+	background: var(--background-primary)
+}
+.gradientContainer__9a5a6{
+	background-image: linear-gradient(rgb(13, 22, 53) 0%,rgba(13, 22, 53,.738)19%,rgba(13, 22, 53,.541)34%,rgba(13, 22, 53,.382)47%,rgba(13, 22, 53,.278)56.5%,rgba(0,0,0,.194)65%,rgba(0,0,0,.126)73%,rgba(0,0,0,7.5%)80.2%,rgba(0,0,0,4.2%)86.1%,rgba(0,0,0,2.1%)91%,rgba(0,0,0,.8%)95.2%,rgba(0,0,0,.2%)98.2%,rgba(0,0,0,0)100%)
+}
+.option_b5597b:after{
+	background: unset;
+}
+.search_ac353c .DraftEditor-root .public-DraftStyleDefault-block span{
+	background: var(--background-accent)
+}
+.messagesErrorBar__06c0a{
+	background-color: var(--brand-500)
+}
+.custom-theme-background .isUnread__6f880, .isUnread__6f880{
+	border-color: var(--brand-500)
+}
+.unreadPill__715fc{
+	background-color: var(--brand-500);
+}
+.unreadPillCapStroke__12c0b{
+	color: var(--brand-500);
+	fill: var(--brand-500);
+}
+.theme-dark .gameNameInput_e25dd8:hover, .theme-dark .gameNameInput_e25dd8:focus{
+	background: var(--background-accent)
+}
+.theme-dark .addGamePopout_e4ca8f{
+	background: var(--background-accent)
+}
+.vc-settings-theme-links{
+	background: var(--background-secondary)
 }
