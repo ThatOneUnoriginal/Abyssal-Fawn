@@ -1,0 +1,29 @@
+{
+  "manifest": {
+    "author": "ThatOneUnoriginal",
+    "version": "0.0.1",
+    "name": "Abyssal Fawn",
+    "transparency_mode": 0,
+    "license": "MIT"
+  },
+  "background": {},
+  "simple_colors": {
+    "background": -15326127,
+    "background_secondary": -15919563,
+    "active_channel": -14733469
+  },
+  "colors": {
+    "primary_dark_200": -4143397,
+    "status_yellow_500": -8694462,
+    "status_yellow_500_alpha_10": 444290370,
+    "primary_dark_330": -9603180,
+    "link": -4681089,
+    "white_500": -4143397,
+    "primary_dark_300": -4143397,
+    "primary_dark_800": -15919563,
+    "primary_dark_360": -10656127
+  },
+  "drawable_tints": {
+    "ic_channel_text": -10656127
+  }
+}
