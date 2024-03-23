@@ -4,7 +4,8 @@
     "version": "0.0.1",
     "name": "Abyssal Fawn",
     "transparency_mode": 0,
-    "license": "MIT"
+    "license": "MIT",
+    "updater": "https:\/\/raw.githubusercontent.com/ThatOneUnoriginal\/Abyssal-Fawn\/main\/src\/abyssal-fawn-aliucord.json"
   },
   "background": {},
   "simple_colors": {
