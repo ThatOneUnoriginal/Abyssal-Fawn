@@ -1,5 +1,5 @@
 >[!NOTE]
->This page is just a placeholder for the custom theme and is still in development. Though the project should be released soon. My main intention is to resolve most (if not all) of the known issues/problems I found with both themes before finally releasing it for all users. You can look at the image below for a preview but please expect changes between then and now!
+>The desktop/web version of Abyssal Fawn has released though the mobile versions are still in progress.
 
 <h1 align="center">Abyssal Fawn Custom Theme For <a href="https://discord.com">Discord</a></h1>
 
