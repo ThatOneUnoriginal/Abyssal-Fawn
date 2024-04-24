@@ -43,30 +43,3 @@ Alternatively, download <code>https://raw.githubusercontent.com/ThatOneUnorigina
 <h3>Stylus</h3>
 1. Download the Stylus extension for <a href="https://chromewebstore.google.com/detail/stylus/clngdbkpkpeebahjckkjfobafhncgmne">Chrome</a> (Chromium Browsers) or <a href="https://addons.mozilla.org/en-CA/firefox/addon/styl-us/">Firefox</a><br>
 2. Go <a href="https://userstyles.world/style/15149/abyssal-fawn">here</a> and install the theme to Stylus<br>
-
-<h2>Known Issues/Problems</h2>
-<h3>Desktop</h3>
-- <s>Long clicking on certain buttons results in user seeing Blurple color</s><br>
-- <s>Long clicking on certain buttons results in user seeing Light Grey</s><br>
-- <s>Notification settings popup UI not fully transformed into theme colours</s><br>
-- <s>App Directory section not fully transformed into theme colours</s><br>
-- <s>Search popup header background not transformed into theme color</s><br>
-- <s>Selected item search right gradient not transformed into theme colour</s><br>
-- <s>Discorver section not fully transformed into theme colours</s><br>
-- Hovering over "Active Now" activity cards looks weird<br>
-- <s>Browse Channels section not fully transformed into theme colours</s><br>
-- Invite friends to ____ bottom section background not fully transformed into theme colours<br>
-- <s>Folder Settings Custom Colour Picker Background not transformed into theme colours</s><br>
-- Checkbox On Background (ex Sync with Computer) not fully transformed into theme colours<br>
-- Billing "Psst! Looking to redeem a Discord key?" box not transformed into theme colours fully<br>
-- Vencord Online Themes Text Field not significantly seperated from background unless active<br>
-- Green -> Yellow -> Red on Privacy & Safety Prefences Side Borders go Brown -> Yellow -> Brown instead<br>
-- <s>Pin Message preview messsage background does not transformed into theme colours.</s><br>
-- <s>[Plugin Related] Decor change decoration colours cause background colours to blend in with each other.</s><br>
-- Selected channel icon colour (not text colour) keeps unselected channel icon colour (light blue) instead of turning to white like text color<br>
-<h3>Mobile</h3>
-- Transition Colour Between Non-Press and Hold on Certain UI has this weird Purple Colour<br>
-- Uer Profile -> Server Profiles Selector on Profile Settings Section not transformed into theme colour<br>
-- All Messages -> @Mentions -> Nothing Selector on the Notification Settings not transformed into theme colour<br>
-- Message text whilst viewing imgs/vids/gifs has a placeholder green colour instead of correct colour.<br>
-- Emoji/GIF/Sticker popup selector and search bar not transformed into theme colours. 
